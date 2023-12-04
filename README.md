@@ -19,3 +19,10 @@ Web Scraping Algorithm:
 ## Methods
 Tools:
 NumPy, Pandas, Jupyter
+
+
+
+
+## Resources
+https://www.covers.com/
+

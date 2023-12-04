@@ -12,3 +12,6 @@ The dataset was put together by myself. I found the informaton on covers.com[1] 
 Web Scraping Algorithm:
 ![image](https://github.com/MattFerrara/NBA-Data-Analysis/assets/90582699/1e5c3cc2-7fc5-413e-8519-f1827acbcd3f)
 
+## Methods
+Tools:
+NumPy, Pandas, Jupyter

@@ -7,3 +7,8 @@ This project is supposed to help predict whether or not the person who is trying
 
 ## Selection of Data
 The data set has over 6,000 games containing five seperate categories: The teams name, the date which the game was played, who they played, the score of the game and if they won or lost, the spread and if they covered or not, and the over under.
+
+The dataset was put together by myself. I found the informaton on covers.com[1] to get the data i used a webscraping algorithm shown below.
+Web Scraping Algorithm:
+![image](https://github.com/MattFerrara/NBA-Data-Analysis/assets/90582699/1e5c3cc2-7fc5-413e-8519-f1827acbcd3f)
+

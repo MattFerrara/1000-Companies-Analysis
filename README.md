@@ -5,7 +5,9 @@ The objective of this project is to use past data from the nba to see how differ
 
 A spread is determined by how the team has been doing throughout the season and who they are playing against. Spreads found on sports books are determined by a sports betting algorithm and change depending on a variety of factors such as record, injuries, opponents record, and if the team is home or away.
 
+An over under is simply whether or not both teams will combine to score a certain amount of points. This one is a lot harder to determine because it involves two teams. 
 
+Home court advantage is simply the idea that if a team plays at home that because they're used to playing in that enviorment, they will have an advantage over the away team and is more likely to win. This project will determine whether this is true or not. 
 
 ## Selection of Data
 The data set has over 6,000 games containing five seperate categories: The teams name, the date which the game was played, who they played, the score of the game and if they won or lost, the spread and if they covered or not, and the over under. All these games are in the regular season playoffs and preseason is not counted.

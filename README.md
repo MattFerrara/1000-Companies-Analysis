@@ -1,7 +1,7 @@
 # 1000 Companies Data Analysis
 
 ## Introduction
-In this project I used 1000 companies data to test if profit has any relevence to 
+In this project I used 1000 companies data to predixt the outcome of the companies based upon 
 ## Selection of Data
 
 ## Methods

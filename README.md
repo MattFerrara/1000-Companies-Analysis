@@ -8,6 +8,7 @@ The model processing and training are conducted using a Jupyter Notebook and is 
 The objective is t predict the future profits of the companies. The dataset cab be found online at Kaggle[1]
 
 Data preview:
+
 ![image](https://github.com/MattFerrara/1000-Companies-Analysis/assets/90582699/4660f893-44fd-4e0c-8f73-19d9859f9739)
 
 Note that the data has one categorical feature in column 4 which is: 'State'

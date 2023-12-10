@@ -17,6 +17,7 @@ Data preview:
 Note that the data has one categorical feature in column 4 which is: 'State'
 The data consist of 1000 rows with 6 different columns: 
 ## Methods
+My tools:
 NumPy, Pandas, and the Scikit-learn for data regression and analysis
 Github
 Jupyter as IDE

@@ -10,7 +10,8 @@ I opted for the simplicity of linear regression, aiming to capture the relations
 A streamlined pipeline ensures consistency, and GridSearchCV fine-tunes hyperparameters for optimal results.
 
 ## Selection of Data
-The model processing and training are conducted using a Jupyter Notebook and is available https://github.com/MattFerrara/1000-Companies-Analysis/blob/main/code/Company-Model_Training_Notebook.ipynb
+The model processing and training are conducted using a Jupyter Notebook and is available here 
+https://github.com/MattFerrara/1000-Companies-Analysis/blob/main/code/Company-Model_Training_Notebook.ipynb
 
 R&D Spending, Administration, Marketing Spend, State and Profit.
 

@@ -36,6 +36,7 @@ Polynomial Features: This is applied to create polynomial features from the orig
 SimpleImputer: This is used for handling missing values in the dataset. It allows for various strategies to fill in missing values, such as mean, median, or constant values. 
 PipeLine
 A pipeline ties all these preprocessing steps together in a sequence. This ensures that the same transformations are applied consistently to both the training and testing datasets. The pipeline simplifies the workflow and makes code readable, making it easier to maintain and reproduce.
+
 GridSearchCV
 The entire workflow is organized using pipelines, and hyperparameter tuning is performed using GridSearchCV to optimize the model's performance.
 ## Results

@@ -61,7 +61,10 @@ INSERT IMAGE
 
 ## Discussion
 Experimenting with various feature engineering and techniques and regression algorithmsI found that linear regression with one hot encoding provided a super high accuracy. Across all of my trials, my training accuracy was around 94% while my training score was 96%. Thus I wanted to try to  get to 100% since I was already so close with just the linear regression model alone. The data was split using a test size of .2, which is 80/20 for testing and has a testing accuracy of 98%.
+
 Kaggle didn’t have any notebooks on this data but I did note that it had 0 missing data items, which made the whole thing a whole lot easier.
+
+In the future, if more company data was given on a lrager scale of say a million companies varying in small business to cooperations then I don't think that it would be as accurate as it is right now. Most of the companies in the dataset are medium sized with a few outliers of small and large, but mostly every company was middle of the road. This is why I believe that the regression was so accurate.
 
 ## Summary
 This project deployed a regression model to predict profits of a company based on 5 different features. After experimenting with various feature engineering techniques, the deployed model’s testing accuracy was approximately 98%.

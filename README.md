@@ -52,12 +52,18 @@ GridSearchCV: The entire workflow is organized using pipelines, and hyperparamet
 ## Results
 In the first experiment I didn’t expect to get such a high linear regression score
 This came out to be a .949 accuracy rate. This is considered to be a very good accurate score. 
-INSERT IMAGE.
+
+![image](https://github.com/MattFerrara/1000-Companies-Analysis/assets/90582699/b8dfd208-fa0e-4eb5-a213-2283e16bbe31)
+
 Then I did a second experiment to see if I could get the results even closer to 100% using pipeline preprocessing methods. I came out to a test Score of .985 which is almost 100%. 
-INSERT IMAGE
+
+![image](https://github.com/MattFerrara/1000-Companies-Analysis/assets/90582699/eebc570a-5c4c-4ebf-96a0-20830aa69455)
+
 
 After that I used GridSearchCV to find the best grid search for the data which came out to approximately .959
-INSERT IMAGE
+
+![image](https://github.com/MattFerrara/1000-Companies-Analysis/assets/90582699/5f4da5b9-cb06-468e-a2e1-00c17f7e2515)
+
 
 ## Discussion
 Experimenting with various feature engineering and techniques and regression algorithmsI found that linear regression with one hot encoding provided a super high accuracy. Across all of my trials, my training accuracy was around 94% while my training score was 96%. Thus I wanted to try to  get to 100% since I was already so close with just the linear regression model alone. The data was split using a test size of .2, which is 80/20 for testing and has a testing accuracy of 98%.

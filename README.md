@@ -37,8 +37,7 @@ SimpleImputer: This is used for handling missing values in the dataset. It allow
 PipeLine
 A pipeline ties all these preprocessing steps together in a sequence. This ensures that the same transformations are applied consistently to both the training and testing datasets. The pipeline simplifies the workflow and makes code readable, making it easier to maintain and reproduce.
 
-GridSearchCV
-The entire workflow is organized using pipelines, and hyperparameter tuning is performed using GridSearchCV to optimize the model's performance.
+GridSearchCV: The entire workflow is organized using pipelines, and hyperparameter tuning is performed using GridSearchCV to optimize the model's performance.
 ## Results
 In the first experiment I didn’t expect to get such a high linear regression score
 This came out to be a .949 accuracy rate. This is considered to be a very good accurate score. 

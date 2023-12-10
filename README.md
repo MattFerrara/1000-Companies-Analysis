@@ -2,7 +2,8 @@
 # 1000 Companies Data Analysis
 
 ## Introduction
-In this project I used 1000 companies data to predict the outcome of the companies profit based upon the given data. 
+
+In this project, I use data from 1000 companies to predict their profit outcomes. My goal is to provide a data-driven solution using tools like NumPy, SciPy, Pandas, and Scikit-learn. The excitement lies in uncovering valuable insights from the dataset and building a reliable predictive model. I opted for the simplicity of linear regression, aiming to capture the relationships between various features and company profits. Preprocessing tools like OneHotEncoder, StandardScaler, PolynomialFeatures, and SimpleImputer enhance the model's performance. A streamlined pipeline ensures consistency, and GridSearchCV fine-tunes hyperparameters for optimal results.
 
 ## Selection of Data
 The model processing and training are conducted using a Jupyter Notebook and is available under the code section. R&D Spending, Administration, Marketing Spend, State and Profit.

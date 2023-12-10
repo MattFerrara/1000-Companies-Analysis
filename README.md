@@ -10,7 +10,9 @@ I opted for the simplicity of linear regression, aiming to capture the relations
 A streamlined pipeline ensures consistency, and GridSearchCV fine-tunes hyperparameters for optimal results.
 
 ## Selection of Data
-The model processing and training are conducted using a Jupyter Notebook and is available under the code section. R&D Spending, Administration, Marketing Spend, State and Profit.
+The model processing and training are conducted using a Jupyter Notebook and is available 
+
+R&D Spending, Administration, Marketing Spend, State and Profit.
 
 The objective is to predict the future profits of the companies. The dataset can be found online at Kaggle[1]
 

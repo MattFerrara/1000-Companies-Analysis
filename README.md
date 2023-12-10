@@ -1,7 +1,7 @@
 # 1000 Companies Data Analysis
 
 ## Introduction
-In this project I used 1000 companies data to predict the outcome of the companies profit based upon previous given data.
+In this project I used 1000 companies data to predict the outcome of the companies profit based upon the given data. 
 ## Selection of Data
 The model processing and training are conducted using a Jupyter Notebook and is avaible under the code section. R&D Spending, Administration, Marketing Spend, State and Profit.
 
